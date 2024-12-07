@@ -34,3 +34,5 @@ nvm install 16
 nvm use 16
 
 "start": "react-scripts start"
+
+npm install --legacy-peer-deps
